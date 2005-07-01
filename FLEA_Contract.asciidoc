@@ -1,5 +1,4 @@
-= Agreement Between Trustees of the Forbes Library and Forbes Library Employee
-Association (F.L.E.A.) : JULY 1, 2005 to JUNE 30, 2006 =
+= Agreement Between Trustees of the Forbes Library and Forbes Library Employee Association (FLEA): JULY 1, 2005 to JUNE 30, 2006 =
 
 :sectnums!:
 
@@ -185,7 +184,7 @@ days of the Step III decision. Such Request shall be hand delivered or sent via
 certified mail.
 +
 The Association shall make application to the American Arbitration Association
-("AAA") for the selection of an arbitrator pursuant to the rules of AAA.
+(``AAA'') for the selection of an arbitrator pursuant to the rules of AAA.
 +
 The arbitrator's decision shall be in writing and will set forth his or her
 findings, conclusions, and reasoning on the issues submitted. The arbitrator
