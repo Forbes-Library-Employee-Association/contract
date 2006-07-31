@@ -1,4 +1,4 @@
-= Agreement Between Trustees of the Forbes Library and Forbes Library Employee Association (FLEA): JULY 1, 2005 to JUNE 30, 2006 =
+= Agreement Between Trustees of the Forbes Library and Forbes Library Employee Association (FLEA): JULY 31, 2006 to JUNE 30, 2008 =
 
 :sectnums!:
 
@@ -12,7 +12,7 @@ per week. The Board recognizes FLEA as the sole and exclusive bargaining agent
 for the purpose of negotiating wages, hours and other terms and conditions of
 employment for the employees covered by this contract.
 
-== Article II:  BOARD RIGHTS ==
+== Article II: BOARD RIGHTS ==
 
 It is agreed that except as specifically and directly modified by the express
 language in a specific provision of this contract, the Board of Trustees of
@@ -48,6 +48,19 @@ against a claim based on this dues deduction provision. Employees may initiate
 or withdraw their authorization at any time, although it is understood that a
 reasonable period of time, not to exceed four (4) weeks, will be required for
 such a change to become effective.
+
+The Association agrees that when it uses Library equipment (copier, etc.) for
+Association purposes it shall immediately pay for such use in the same manner as
+the general public. Abuse of this privilege will result in its withdrawal.
+
+In addition, the Association members agree not to conduct union business during
+work time. Association members who want to participate in FLEA activities during
+regularly scheduled work hours must use personal, vacation time, or previously
+earned compensation time and must request the time off in advance. The FLEA
+President may act on behalf of members to notify management of upcoming
+meetings. Management will grant all requests as long as they do not adversely
+affect library operations.
+
 
 == Article IV: TRANSFERS ==
 
@@ -118,11 +131,11 @@ the subject of this Agreement.
 .. Language in this Agreement which excludes any provision, term or part thereof
 from arbitration shall be given full force and effect.
 
-. [underline]#Representation of Parties#:  Each of the parties to a grievance
+. [underline]#Representation of Parties#: Each of the parties to a grievance
 shall have the right to consult with and/or be represented by the representative
 of their choice.
 
-. [underline]#Time Limits#:  All grievances must be filed at the appropriate
+. [underline]#Time Limits#: All grievances must be filed at the appropriate
 beginning step within fifteen (15) days of the date upon which a reasonable
 person should have had knowledge of the actual event or occurrence that gave
 rise to the grievance. Grievances must specifically state both the nature of the
@@ -132,11 +145,11 @@ grievance. Failure of management to issue a decision within the established time
 periods will advance the grievance to the next appropriate step of the grievance
 procedure.
 
-. [underline]#Withdrawal of Grievance#:  A grievance remains the exclusive
+. [underline]#Withdrawal of Grievance#: A grievance remains the exclusive
 property of the grievant at all times. The grievance retains the right to
 withdraw a grievance at any time, or at any step of the grievance procedure.
 +
-Informal Resolution:  Nothing within this procedure will be interpreted as a
+Informal Resolution: Nothing within this procedure will be interpreted as a
 constraint that limits the right of a grievant to seek a resolution of a
 grievance through informal discussion with his or her immediate supervisor,
 provided such resolution is not inconsistent with the terms of this Agreement.
@@ -175,12 +188,19 @@ discuss the grievance and, within thirty (30) days of such meeting shall issue
 its written decision to the grievant, the Association, and the Director.
 
 Step IV::
-If the grievance is not resolved at Step III, the grievant may request that the
+If the parties are unable to resolve the grievance to their mutual satisfaction,
+such grievance shall be submitted, within ten (10) business days of the issuance
+of a decision in Step III, for grievance mediation to the Massachusetts Board of
+Conciliation and Arbitration. The parties shall share equally in the grievance
+mediation filing cost.
+
+Step V::
+If the grievance is not resolved at Step IV, the grievant may request that the
 Association submit the grievance to arbitration. Such request must be made in
-writing and be submitted within fifteen (15) days of receipt of the Step III
+writing and be submitted within fifteen (15) days of receipt of the Step IV
 decision. If the Association deems the grievance meritorious, it may submit a
 written Request for Arbitration to the Board and Director within thirty (30)
-days of the Step III decision. Such Request shall be hand delivered or sent via
+days of the Step IV decision. Such Request shall be hand delivered or sent via
 certified mail.
 +
 The Association shall make application to the American Arbitration Association
@@ -207,10 +227,9 @@ orientation, religion, national origin, age, marital status, or handicap.
 == Article VIII: SCOPE AND EFFECT ==
 
 [loweralpha]
-. It is agreed that any
-provision of this contract which is held contrary to law, will not be deemed
-valid except to the extent permitted by law, but all other provisions or
-applications will continue in full force and effect.
+. It is agreed that any provision of this contract which is held contrary to
+law, will not be deemed valid except to the extent permitted by law, but all
+other provisions or applications will continue in full force and effect.
 
 . This Agreement incorporates the entire understanding of the parties on all
 matters which were subject to negotiations. During the term of this Agreement,
@@ -220,7 +239,7 @@ or not covered by this Agreement.
 . This Agreement may not be modified in whole or in part by the parties except
 by an instrument in writing duly executed by both parties.
 
-== Article IX:  SENIORITY ==
+== Article IX: SENIORITY ==
 
 Seniority is defined as the employee's length of continuous service with the
 Library since his/her last day of hire in a regular position.
@@ -263,7 +282,7 @@ A. Qualified employees will be given fair and equitable consideration for all
 permanent jobs that are posted in the staff room, as well as any special
 projects that may become available.
 
-== Article XI:  SUBSTANCE ABUSE POLICY ==
+== Article XI: SUBSTANCE ABUSE POLICY ==
 
 The Board and the Association express their joint determination to deal
 cooperatively and constructively with the issue of substance abuse. Alcoholism
@@ -283,45 +302,36 @@ occurrence or commission of any act subject to disciplinary action.
 
 == Article XII: SICK LEAVE ==
 
-Regular, full-time employees shall be entitled to fifteen (15) sick days during
-each calendar year. Such days are intended to be used for absences from the
-Library due to sickness or injury.
-
-Sick days are intended to be used for the purpose of providing financial
-compensation during a period of illness or injury. They may also be used for the
-purpose of individual health maintenance; however, it is understood and agreed
-by both the Board and Association that, whenever feasible, routine,
-non-emergency medical appointments will be scheduled outside of normal Library
-hours.
-
-The Director of the Library, at his discretion, may request acceptable medical
-evidence of illness. In addition, the Director may require that an employee be
-cleared for return to duty by the City of Northampton's designated physician.
-
-Regular part-time employees (those who work at least twenty (20) hours per week
-on a regularly scheduled basis) will have their sick leave credited on a pro
-rata basis.
+Sick leave shall be granted to eligible employees who are incapacitated for duty
+as a result of illness or non work related injury. Appointments for medical or
+dental visits may be charged to sick leave; however, the Library and Association
+understand and agree that whenever feasible, routine, non-emergency medical
+appointments will be scheduled outside of employee's working hours. Sick leave
+may not be charged, however, for any period during which the employee was not
+scheduled to work (leave of absence, vacation, etc.). Full time employees shall
+be credited with sick leave accrued on the basis of 2.31+ hours per work week.
+Part-time salaried employees will be credited with sick leave on a pro-rated
+basis.
 
 Upon retirement or death of an employee, accumulated sick leave shall be paid in
 a lump sum to the employee, or in the case of death, to their spouse or
-beneficiary. Such sick leave shall be computed at their most recent daily rate
-of pay and shall be paid at the rate of 33 1/3% of the total amount of
-accumulated sick leave.
+designated beneficiary. An employee, or their spouse, shall be entitled to
+payment for accumulated but unused sick time in accordance with the following
+formula, but subject to a total payout cap of fifty-five hundred dollars
+($5,500.00): The number of accumulated but unused sick leave hours credited to
+an employee at the date of his/her death or retirement shall be divided by three
+and the result shall be multiplied the then effective rate of compensation. The
+product of such calculation shall be payable to the employee with his/her final
+paycheck unless such amount exceeds $5,500.00. Such payout is capped at
+$5,500.00. The sick leave buy back cap provisions shall not apply to those
+employees hired before December 31, 1986.
 
-Employees may use up to five (5) days of sick leave each year to care for ill or
-incapacitated members of their immediate family (immediate family is defined as
-father, mother, sister, brother, spouse, significant other, child, or
-grandchild).
+The Library reserves the right to require a signed doctor's release before
+permitting an employee to return to duty after a medical absence. In situations
+involving possible abuse of the sick leave policy the Library reserves the right
+to require medical proof of illness.
 
-Employees who call in sick must notify their immediate supervisor as early in
-the day as possible.  It is expected that employees will make every effort to
-notify their supervisor directly or will leave the message with another staff
-person.  Voice mail or email will no longer be considered an acceptable way of
-communicating an absence.
-
-Every effort must be made to speak directly to a staff person.
-
-== Article XIII:  HEALTH AND WELFARE ==
+== Article XIII: HEALTH AND WELFARE ==
 
 Employees covered by health insurance shall continue to pay twenty percent (20%)
 of the cost of hospital and medical coverage for City-provided HMO coverage. In
@@ -361,7 +371,7 @@ twenty-five (25) vacation days.
 An employee's term of service will be based upon the fiscal year in which that
 employee began employment at the Forbes. The increase in vacation time due will
 begin at the beginning of the Fiscal Year (July 1) which marks increased
-vacation allotment. One-half (½) of the extra vacation time will be added at the
+vacation allotment. One-half (1/2) of the extra vacation time will be added at the
 beginning of the Fiscal Year (July 1); all of the extra vacation time will be
 added to the next January 1 vacation allotment within that Fiscal Year.
 
@@ -375,20 +385,20 @@ bargaining unit who leaves the employ of ForbesLibrary shall be paid for
 whatever leave balance exists as of the date of termination; no employee may be
 paid for more than twenty-five (25) vacation days of leave.
 
-== Article XV:  BEREAVEMENT DAYS ==
+== Article XV: BEREAVEMENT DAYS ==
 
 Bereavement Leave -- In the event of the death of a spouse, or child, paid leave
 of up to one calendar week (for actual work days missed) may be granted.
 
 In the event of death of a member of the immediate family of an employee, the
 employee may be granted paid leave of up to three work days (for actual work
-days missed.)  Immediate family is defined as an employee's mother, father,
+days missed.) Immediate family is defined as an employee's mother, father,
 step-parent, foster parent, step-child, foster child, sister, brother,
 grandparent, grandchild, father-in-law, mother-in-law, son-in-law, and
 daughter-in-law.
 
 In the case of the death of the employee's following relative, one day of paid
-leave may be allowed (for actual work day missed):  aunt, uncle, niece, nephew,
+leave may be allowed (for actual work day missed): aunt, uncle, niece, nephew,
 brother-in-law, sister-in-law.
 
 With the consent of the Department Head and providing it will not impair/reduce
@@ -397,9 +407,16 @@ up to four hours of paid leave to attend the service of a deceased co-worker
 
 == Article XVI: REST AND LUNCH PERIODS ==
 
-All employees are entitled to one fifteen minute rest period (a.k.a. ``a break'') per three hours of consecutive work. Breaks may not be taken at the beginning or at the end of the work day and except  under exceptional circumstances and only  with the approval of a Department Head or  the Director.
+All employees are entitled to one fifteen minute rest period (a.k.a. ``a
+break'') per three hours of consecutive work. Breaks may not be taken at the
+beginning or at the end of the work day and except under exceptional
+circumstances and only with the approval of a Department Head or the Director.
 
-Employees who who work a shift of at least six (6) hours are entitled to a thirty  (30) minute unpaid meal break.   Employees are free to leave the workplace during their thirty (30) minute meal break.  Employees must take this unpaid meal break except under special circumstances and then only with the approval of a Department Head or the Director.
+Employees who who work a shift of at least six (6) hours are entitled to a
+thirty (30) minute unpaid meal break. Employees are free to leave the
+workplace during their thirty (30) minute meal break. Employees must take this
+unpaid meal break except under special circumstances and then only with the
+approval of a Department Head or the Director.
 
 == Article XVII: HOLIDAYS ==
 
@@ -413,7 +430,7 @@ The following are paid holidays:
 . Independence Day
 . Labor Day
 . Veterans Day
-. ½ Day Before Thanksgiving
+. 1/2 Day Before Thanksgiving
 . Thanksgiving Day
 . Friday After Thanksgiving
 . Last scheduled day before Christmas
@@ -422,7 +439,7 @@ The following are paid holidays:
 
 Should the Library declare any other day a holiday or skeleton work force day,
 the employees not required to work shall receive the day off with pay. Employees
-required to work shall be granted time and ½ off with pay.
+required to work shall be granted time and 1/2 off with pay.
 
 All employees on a full time basis shall receive seven and one half hours (7.5)
 pay. All other employees under this agreement shall be paid holiday pay on a
@@ -435,23 +452,31 @@ one half hours (7.5).
 
 An employee on an unpaid leave will not be eligible for holiday pay.
 
-== Article XVIII JURY PAY ==
+== Article XVIII: JURY PAY ==
 
-Anemployee who serves on jury duty will continue to receive a regular pay from
-the Library, provided the Director of the Library certifies on the payroll that
-the employee is absent for jury duty. When payment by the Court for such jury
-duty is made, such payment, exclusive of travel or any other allowances, shall
-be refunded to the Library by the employee.
+An employee who serves on jury duty will continue to receive regular pay from
+the library, provided the employee's department head certifies on the payroll
+that the employee is absent for jury duty. When payment by the Court for such
+jury duty is made, such payment, exclusive of travel or any other allowances,
+shall be refunded to the Library by the employee in the following manner: the
+employee shall present to their department head either the check from the Court
+endorsed over to Forbes Library, or a certification from the Court as the amount
+paid together with the employee's personal reimbursement to the Library. The
+Library reserves the right to require documentation of jury service before
+authorizing payment for such duty.
 
-An employee in jury duty shall be considered as being employed Monday through
+Employees subpoenaed by the Commonwealth or its subdivisions shall be reimbursed
+as if on jury duty.
+
+An employee on jury duty shall be considered as being employed Monday through
 Friday.
 
-An employee who is on jury duty for four hours (4) or less in a given day shall
+An employee who is on jury duty for four (4) hours or less in a given day shall
 return to work for the remainder of their regular shift, but in no event shall
 the time the employee is on jury duty and the time the employee is on their
-regular job exceed seven and one half (7.5) hours in any given day.
+regular job exceed eight (8) hours in any given day.
 
-== Article XIX MILITARY LEAVE ==
+== Article XIX: MILITARY LEAVE ==
 
 A military leave of absence without compensation shall be granted to any
 employee called to active duty with the United States Armed Forces.
@@ -459,11 +484,18 @@ employee called to active duty with the United States Armed Forces.
 An employee who serves an annual tour of duty with a United States Reserve
 component or as a member of the National Guard of the Commonwealth shall receive
 the differences between his/her regular base pay and military pay received for a
-period of up to seventeen (17) working days in a calendar year. The reservist
-need only reimburse the Library for days corresponding with the employee's work
-schedule.
+period of up to seventeen (17) working days in a calendar year. The Library
+need only reimburse the reservist for days corresponding with the employee's
+work schedule.
 
-== Article XX:  FAMILY MEDICAL LEAVE/MATERNITY LEAVE ==
+When permitted by law, an employee who is called to active military duty for a
+period of more than thirty (30) days may, at the option of the employee,
+continue his or her medical coverage under the same terms and conditions
+provided by the contract. This option shall last for one (1) year only and must
+be exercised in writing by the employee by the sixtieth (60) day of the
+employee's active duty.
+
+== Article XX: FAMILY MEDICAL LEAVE/MATERNITY LEAVE ==
 
 === A. Maternity:
 
@@ -487,10 +519,13 @@ cost of any benefits, plans or programs during her period of maternity leave
 unless such employer so provides for all employees on leave of absence.
 
 === B. FMLA
+
 See Attachment B.
 
 === C. JOB PROTECTION
-When an employee is on leave their job will not be unfairly targeted for elimination simply because it is temporarily vacant.
+
+When an employee is on leave their job will not be unfairly targeted for
+elimination simply because it is temporarily vacant.
 
 == Article XXI: PERSONAL LEAVE AND RELIGIOUS OBSERVANCES ==
 
@@ -502,17 +537,19 @@ It is the understanding of both parties that the library will accommodate
 requests for time off for religious observances, but that such time must be
 taken as personal time. Vacation time can be substituted for this purpose also.
 
-No advance notice is required for Personal Leave.  Employees who choose to take
+No advance notice is required for Personal Leave. Employees who choose to take
 a Personal Day must notify their immediate supervisor as early in the day as
-possible that they will be taking a Personal Day.  It is expected that employees
+possible that they will be taking a Personal Day. It is expected that employees
 will make every effort to notify their supervisor directly or will leave the
-message with another staff person.  Voice mail or email will no longer be
+message with another staff person. Voice mail or email will no longer be
 considered an acceptable way of communicating an absence. Every effort must be
 made to speak directly to a staff person.
 
 == Article XXII: LONGEVITY COMPENSATION ==
 
-Each full-time employee (i.e. those employees who work regularly at least thirty-seven and one half (37 ½) hours per week) shall receive longevity compensation as follows:
+Each full-time employee (i.e. those employees who work regularly at least
+thirty-seven and one half (37 1/2) hours per week) shall receive longevity
+compensation as follows:
 
 [upperalpha]
 . Upon completion of five (5) years of continuous service in paid status of no
@@ -602,8 +639,8 @@ reason dictates a cutback in the number of employees employed by the Library.
 . The Board agrees that in the event of staff reduction, it shall retain
 appropriately qualified staff of the highest quality. The determination of
 highest quality will be made by the Director, in consultation with the Board,
-after evaluation of program and personnel requirements.  The evaluation of
-personnel shall be based on seniority and job qualifications.  The decision of
+after evaluation of program and personnel requirements. The evaluation of
+personnel shall be based on seniority and job qualifications. The decision of
 the Board in matters of staff reduction shall be final.
 
 . In the event a staff vacancy occurs within twelve (12) months of such a
@@ -632,7 +669,7 @@ covered by the Provisions of the Family Medical Leave Act (``FMLA'').
 All requests for unpaid leaves of absence or extension of such leave shall be
 submitted in writing to the Director.
 
-== Article XXVIII:  DISABILITY ==
+== Article XXVIII: DISABILITY ==
 
 The Trustees of Forbes Library agree to develop a light duty policy in
 accordance with the Americans With Disabilities Act.
@@ -672,10 +709,10 @@ work caused by the invocation of this procedure.
 
 Employees covered by this Agreement will not be paid Overtime unless such
 Overtime has been authorized by the Director of the Library. Compensatory time
-shall be granted to any employee who exceeds 37 ½ hours of work in a work week.
+shall be granted to any employee who exceeds 37 1/2 hours of work in a work week.
 If an employee earns compensatory time for hours worked in excess of 40 per work
 week, he or she shall accrue such compensatory time at the rate of one and
-one-half (1 ½) hours per hour of work in excess of 40.
+one-half (1 1/2) hours per hour of work in excess of 40.
 
 Compensatory time shall be treated for wage and hour purposes as wages earned.
 
@@ -694,34 +731,58 @@ period.
 Professional employees (Librarians) shall be subject to a 180 day
 probationary period.
 
-During their probationary period, employees will be eligible for the applicable provisions of this Agreement except for the Grievance and Arbitration provisions contained in Article VI. It is understood that if an employee is not judged suitable for regular status, either upon completion of their probationary period, or at some point during the probationary period, the Library may terminate the probationary employee's employment and he or she shall be without recourse under the terms of this Agreement.
+During their probationary period, employees will be eligible for the applicable
+provisions of this Agreement except for the Grievance and Arbitration provisions
+contained in Article VI. It is understood that if an employee is not judged
+suitable for regular status, either upon completion of their probationary
+period, or at some point during the probationary period, the Library may
+terminate the probationary employee's employment and he or she shall be without
+recourse under the terms of this Agreement.
 
 === D. Parking
 
 All Forbes Library Employees may park free in the library lot during their
-scheduled work shifts.  If employees fail to use or display properly the parking
+scheduled work shifts. If employees fail to use or display properly the parking
 permits that were provided to them, they will be responsible for their own
 parking tickets.
 
+=== E. Volunteers
+
+The use of volunteers shall not lead to the replacement, transfer, reassignment,
+downgrading, or layoff of bargaining unit employees, to a reduction in their
+hours of work, or to the elimination of positions in the bargaining unit.
+
 == Article XXX: COMPENSATION ==
 
-Cost of living increases (``COLA'') have been negotiated for each fiscal year.
-These COLAs will be applied to current salaries.
-
-The Forbes Library salary schedule will be adjusted accordingly.
-
-All eligible employees will receive a step raise of 3 ½ percent per year until
-they reach the top of  their grade .
+All eligible employees will receive a step raise of 3 1/2 percent per year until
+they reach the top of their grade.
 
 Employees who were hired before July 1, 2005 will receive their step raise on
-July 1st of every year.  New  employees hired on or after July 1, 2005 will
-receive their step raises on the anniversary date of their first day of
-employment.
+July 1st of every year they are eligible. New employees hired on or after July
+1, 2005 will receive their step raises on the anniversary date of their first
+day of employment.
 
-All employees are eligible to receive COLA  regardless of  term of employment.
+All employees are eligible to receive COLA regardless of term of employment.
 
-This bargaining unit will settle for a COLA of 2% for FY06
+The Employer agrees to increase an employee's base salary by two percent (2%)
+during the period of time beginning July 1, 2006, and ending June 30, 2007.
 
-If  bargaining units throughout the City receive a higher COLA for FY06  then
-the members of this bargaining unit will be entitled to retroactive COLA  to put
-us at the same level of compensation as other city groups.
+The Employer agrees to a 2.5% COLA added to base for FY08.
+
+== Article XXXI: LABOR MANAGEMENT COMMITTEE ==
+
+The Library and the Association agree to the formation of a joint labor
+management committee to be composed of two Association and two management
+employees to discuss matters pertaining to employee relations which may be of
+mutual concern to the Association and the Library.
+
+The LMC agrees to meet at least quarterly, or more if mutually agreed upon.
+Meetings will be no longer than two hours. Members of the committee will be paid
+at their normal rate for their time. Others may be invited to attend a meeting
+by mutual consent of committee members, on an unpaid basis.
+
+== Article XXXII: DURATION ==
+
+This Agreement between the Employer and the Association entered into on this 31
+day of July, 2006 covers the period beginning July 1, 2006, and ending on June
+30, 2008.
