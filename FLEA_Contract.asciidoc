@@ -1,4 +1,4 @@
-= Agreement Between Trustees of the Forbes Library and Forbes Library Employee Association (FLEA): JULY 31, 2006 to JUNE 30, 2008 =
+= Agreement Between Trustees of the Forbes Library and Forbes Library Employee Association (FLEA): JULY 1, 2008 to JUNE 30, 2010 =
 
 :sectnums!:
 
@@ -46,8 +46,8 @@ said Board, from any and all liability related to this Article. The Association
 agrees to indemnify the Board for any and all legal costs involved in defending
 against a claim based on this dues deduction provision. Employees may initiate
 or withdraw their authorization at any time, although it is understood that a
-reasonable period of time, not to exceed four (4) weeks, will be required for
-such a change to become effective.
+reasonable period of time, at least sixty days, will be required for such a
+change to become effective.
 
 The Association agrees that when it uses Library equipment (copier, etc.) for
 Association purposes it shall immediately pay for such use in the same manner as
@@ -60,7 +60,6 @@ earned compensation time and must request the time off in advance. The FLEA
 President may act on behalf of members to notify management of upcoming
 meetings. Management will grant all requests as long as they do not adversely
 affect library operations.
-
 
 == Article IV: TRANSFERS ==
 
@@ -172,7 +171,7 @@ the Director of the Library not more than six (6) full days after receiving the
 written decision. The grievant shall indicate the reasons for such appeal and
 the relief sought. The Director will arrange a meeting not more than seven (7)
 full days after receiving the grievance. The Director, or his or her designee,
-will render a decision to the grievant not more than ten (10) fall days after
+will render a decision to the grievant not more than ten (10) full days after
 the meeting with a copy to the Association and Board of Library. The decision
 will include the reasons on which the decision is based.
 
@@ -279,7 +278,7 @@ This notice of vacancy shall remain posted for a period of not less than seven
 writing to the Director of the Library.
 
 A. Qualified employees will be given fair and equitable consideration for all
-permanent jobs that are posted in the staff room, as well as any special
+permanent jobs that are posted in the Staff Room, as well as any special
 projects that may become available.
 
 == Article XI: SUBSTANCE ABUSE POLICY ==
@@ -353,7 +352,7 @@ leave.
 == Article XIV: VACATION ==
 
 Those employees on staff as of August 31, 1997 shall have their current vacation
-allotment Grandfathered for the duration of this Agreement. Employees shall
+allotment grandfathered for the duration of this Agreement. Employees shall
 receive vacation pay as follows:
 
 . Employees having less than five (5) years of service shall receive ten (10)
@@ -387,8 +386,10 @@ paid for more than twenty-five (25) vacation days of leave.
 
 == Article XV: BEREAVEMENT DAYS ==
 
-Bereavement Leave -- In the event of the death of a spouse, or child, paid leave
-of up to one calendar week (for actual work days missed) may be granted.
+Bereavement Leave -- In the event of the death of a spouse, child, or domestic
+partner as defined as one who stands in place of a spouse and resides with an
+employee, paid leave of up to one calendar week (for actual work days missed)
+may be granted.
 
 In the event of death of a member of the immediate family of an employee, the
 employee may be granted paid leave of up to three work days (for actual work
@@ -408,15 +409,16 @@ up to four hours of paid leave to attend the service of a deceased co-worker
 == Article XVI: REST AND LUNCH PERIODS ==
 
 All employees are entitled to one fifteen minute rest period (a.k.a. ``a
-break'') per three hours of consecutive work. Breaks may not be taken at the
-beginning or at the end of the work day and except under exceptional
-circumstances and only with the approval of a Department Head or the Director.
+break'') per three hours of consecutive work. Breaks must be scheduled with
+approval of the supervisor. Breaks may not be taken at the beginning or at the
+end of the work day or lunch period except under exceptional circumstances and
+only with the approval of a Department Head or the Director.
 
-Employees who who work a shift of at least six (6) hours are entitled to a
-thirty (30) minute unpaid meal break. Employees are free to leave the
-workplace during their thirty (30) minute meal break. Employees must take this
-unpaid meal break except under special circumstances and then only with the
-approval of a Department Head or the Director.
+Employees who work a shift of at least six (6) hours are entitled to a thirty
+(30) minute unpaid meal break.  Employees are free to leave the workplace during
+their thirty (30) minute meal break. Employees must take this unpaid meal break
+except under special circumstances and then only with the approval of a
+Department Head or the Director.
 
 == Article XVII: HOLIDAYS ==
 
@@ -611,8 +613,11 @@ The employees covered by the terms of this Agreement will be allowed to be
 represented by the four (4) officers of Collective Bargaining unit.
 
 One (1) member of this committee will be allowed to handle grievances during
-working hours with the express permission of the Board of Trustees of Forbes
-Library or its designee.
+working hours. Such time will also be granted in the event that Library
+management has requested an investigatory interview during working time with an
+employee that may lead to discipline and the employee has requested the presence
+of an Association representative. Such meetings will be held at reasonable and
+mutually agreed upon times.
 
 The Library agrees to pay for time spent by this committee person during their
 regular work hours in consulting with the Board of Trustees of Forbes Library or
@@ -621,7 +626,7 @@ its designee regarding grievances.
 == Article XXIV: ACCESS TO PREMISES/BULLETIN BOARDS ==
 
 The Library shall permit the Collective Bargaining Unit to post notices on the
-bulletin boards in the staff room of the Library.
+bulletin boards in the Staff Room of the Library.
 
 The Library will permit the Unit the use of available Library facilities to
 conduct meetings of their organization as long as public use is not disrupted.
@@ -764,10 +769,16 @@ day of employment.
 
 All employees are eligible to receive COLA regardless of term of employment.
 
-The Employer agrees to increase an employee's base salary by two percent (2%)
-during the period of time beginning July 1, 2006, and ending June 30, 2007.
+The Employer agrees to increase an employee's base salary by two and a half
+percent (2.5%) during the period of time beginning July 1, 2008, and ending June
+30, 2009.
 
-The Employer agrees to a 2.5% COLA added to base for FY08.
+Both parties agree to re-open this Agreement for the purpose of negotiating the
+FY2010 COLA before July 1, 2009.
+
+In the event the Library decides to open on Sundays, then the parties agree to
+re-open this Agreement for the purpose of negotiating over the effect of that
+decision on bargaining unit employees.
 
 == Article XXXI: LABOR MANAGEMENT COMMITTEE ==
 
@@ -783,6 +794,7 @@ by mutual consent of committee members, on an unpaid basis.
 
 == Article XXXII: DURATION ==
 
-This Agreement between the Employer and the Association entered into on this 31
-day of July, 2006 covers the period beginning July 1, 2006, and ending on June
-30, 2008.
+This Agreement between the Board and the Association entered into this 17th
+day of April covers the period beginning July 1, 2008 and the ending on June
+30, 2010 provided that the Agreement shall remain in full force and effect until
+a successor agreement is negotiated and in effect.
