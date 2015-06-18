@@ -452,7 +452,7 @@ one half hours (7.5).
 
 An employee on an unpaid leave will not be eligible for holiday pay.
 
-== Article XVIII JURY PAY ==
+== Article XVIII: JURY PAY ==
 
 An employee who serves on jury duty will continue to receive regular pay from
 the library, provided the employee's department head certifies on the payroll
@@ -476,7 +476,7 @@ return to work for the remainder of their regular shift, but in no event shall
 the time the employee is on jury duty and the time the employee is on their
 regular job exceed eight (8) hours in any given day.
 
-== Article XIX MILITARY LEAVE ==
+== Article XIX: MILITARY LEAVE ==
 
 A military leave of absence without compensation shall be granted to any
 employee called to active duty with the United States Armed Forces.
