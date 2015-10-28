@@ -1,6 +1,10 @@
 = Agreement Between Trustees of the Forbes Library and Forbes Library Employee Association (FLEA): JULY 1, 2015 to JUNE 30, 2016 =
-
+:toc:
+:toc-placement: preamble
 :sectnums!:
+
+// Need some preamble to get TOC:
+{empty}
 
 == Article I: RECOGNITION ==
 
