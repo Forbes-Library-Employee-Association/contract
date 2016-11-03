@@ -8,7 +8,7 @@
 
 == Article I: RECOGNITION ==
 
-The Board recognizes the Forbes Library Employee Association (``FLEA''), for
+The Board recognizes the Forbes Library Employee Association (“FLEA”), for
 purposes of collective bargaining, as the sole and exclusive representative of a
 unit consisting of the following employees: All regular, full time and all
 regular, non-temporary part time employees working more than twenty (20) hours
@@ -207,7 +207,7 @@ days of the Step IV decision. Such Request shall be hand delivered or sent via
 certified mail.
 +
 The Association shall make application to the American Arbitration Association
-(``AAA'') for the selection of an arbitrator pursuant to the rules of AAA.
+(“AAA”) for the selection of an arbitrator pursuant to the rules of AAA.
 +
 The arbitrator's decision shall be in writing and will set forth his or her
 findings, conclusions, and reasoning on the issues submitted. The arbitrator
@@ -382,7 +382,7 @@ Part-time employees (those employed on a regular scheduled basis at least twenty
 Except in cases of bona fide emergency, vacation leave should be requested no
 less than two (2) weeks in advance. An employee may not begin the leave year
 with a balance in excess of twenty-five (25) vacation days. A member of the
-bargaining unit who leaves the employ of ForbesLibrary shall be paid for
+bargaining unit who leaves the employ of Forbes Library shall be paid for
 whatever leave balance exists as of the date of termination; no employee may be
 paid for more than twenty-five (25) vacation days of leave.
 
@@ -410,8 +410,8 @@ up to four hours of paid leave to attend the service of a deceased co-worker
 
 == Article XVI: REST AND LUNCH PERIODS ==
 
-All employees are entitled to one fifteen minute rest period (a.k.a. ``a
-break'') per three hours of consecutive work. Breaks must be scheduled with
+All employees are entitled to one fifteen minute rest period (a.k.a. “a
+break”) per three hours of consecutive work. Breaks must be scheduled with
 approval of the supervisor. Breaks may not be taken at the beginning or at the
 end of the work day or lunch period except under exceptional circumstances and
 only with the approval of a Department Head or the Director.
@@ -674,7 +674,7 @@ their training and orientation (probationary) period.
 
 Unpaid leaves of absence may be granted by the Director with the approval of the
 Board of Trustees, in the case where an employee desires leave that is not
-covered by the Provisions of the Family Medical Leave Act (``FMLA'').
+covered by the Provisions of the Family Medical Leave Act (“FMLA”).
 
 All requests for unpaid leaves of absence or extension of such leave shall be
 submitted in writing to the Director.
