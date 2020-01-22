@@ -1,8 +1,7 @@
-= Agreement Between Trustees of the Forbes Library and Forbes Library Employee Association (FLEA): JULY 1, 2017 to JUNE 30, 2018 =
+= Agreement Between Trustees of the Forbes Library and Forbes Library Employee Association (FLEA): JULY 1, 2019 to JUNE 30, 2020 =
 :toc:
 :toc-placement: preamble
 :sectnums!:
-
 // Need some preamble to get TOC:
 {empty}
 
@@ -68,7 +67,7 @@ affect library operations.
 == Article IV: TRANSFERS ==
 
 If an employee seeks to transfer from another position within the Library, the
-employee's length of service in his/her previous department will be credited for
+employee's length of service in their previous department will be credited for
 determining entitlement to any benefits provided by this Agreement, except that
 in posting for any vacancies only length of service in the relevant department
 will be considered.
@@ -89,7 +88,7 @@ classifications, including but not limited to educational and certification
 requirements, the appointment, promotion, assignment, direction and transfer of
 personnel; the suspension, demotion, discharge or other appropriate disciplinary
 action, for just cause, the establishment of reasonable work rules and the
-taking of all necessary actions to carry out it's mission during emergencies.
+taking of all necessary actions to carry out its mission during emergencies.
 
 Delivery of services to the public will be in the most efficient manner
 possible. Such achievement is recognized to be the goal of both parties as they
@@ -111,7 +110,7 @@ set forth herein, the arbitrator shall be limited in the following ways:
 .. The Arbitrator shall not amend, modify, nullify, ignore or add to the
 provisions of the Agreement.
 
-.. The Arbitrator shall decide only the particular issue(s) presented to him/her
+.. The Arbitrator shall decide only the particular issue(s) presented to the arbitrator
 in writing by the parties, and any decision shall be based solely upon a
 reasonable interpretation of the meaning or application of the terms of this
 Agreement to the facts of the grievance presented.
@@ -154,7 +153,7 @@ withdraw a grievance at any time, or at any step of the grievance procedure.
 +
 Informal Resolution: Nothing within this procedure will be interpreted as a
 constraint that limits the right of a grievant to seek a resolution of a
-grievance through informal discussion with his or her immediate supervisor,
+grievance through informal discussion with their immediate supervisor,
 provided such resolution is not inconsistent with the terms of this Agreement.
 Rather, informal solutions to problems are encouraged by both parties. Recourse
 to formal grievance procedure should be a last resort and should follow the
@@ -163,7 +162,7 @@ steps described below.
 . [underline]#Formal Procedure#
 
 Step I::
-The grievant will present the grievance to her or his immediate supervisor, who
+The grievant will present the grievance to their immediate supervisor, who
 will arrange to have a meeting not more than seven (7) full days after receiving
 the grievance. The immediate supervisor will deliver a written decision not more
 than ten (10) full days after the grievance meeting.
@@ -174,7 +173,7 @@ immediate supervisor's decision by presenting a written copy of the grievance to
 the Director of the Library not more than six (6) full days after receiving the
 written decision. The grievant shall indicate the reasons for such appeal and
 the relief sought. The Director will arrange a meeting not more than seven (7)
-full days after receiving the grievance. The Director, or his or her designee,
+full days after receiving the grievance. The Director, or their designee,
 will render a decision to the grievant not more than ten (10) full days after
 the meeting with a copy to the Association and Board of Library. The decision
 will include the reasons on which the decision is based.
@@ -184,7 +183,7 @@ If the grievance is not resolved at Step II, the grievant shall, within six (6)
 full days after receiving the Director's decision, submit the grievance to the
 Chairman of the Board of the Personnel Committee of the Library Board of
 Directors. The grievant's submission shall set forth the reasons for
-dissatisfaction with the decision of the Director, or his/her designee, and the
+dissatisfaction with the decision of the Director, or their designee, and the
 requested relief. The Board shall, within a reasonable period of time from the
 date of filing of the grievance, meet with the grievant and the Association to
 discuss the grievance and, within thirty (30) days of such meeting shall issue
@@ -209,7 +208,7 @@ certified mail.
 The Association shall make application to the American Arbitration Association
 (“AAA”) for the selection of an arbitrator pursuant to the rules of AAA.
 +
-The arbitrator's decision shall be in writing and will set forth his or her
+The arbitrator's decision shall be in writing and will set forth the arbitrator's
 findings, conclusions, and reasoning on the issues submitted. The arbitrator
 will be without the power or authority to make any decision that requires the
 commission of an act prohibited by law or which is in violation of the terms of
@@ -245,7 +244,7 @@ by an instrument in writing duly executed by both parties.
 == Article IX: SENIORITY ==
 
 Seniority is defined as the employee's length of continuous service with the
-Library since his/her last day of hire in a regular position.
+Library since their last day of hire in a regular position.
 
 New employees shall be added to the seniority list twelve (12) months after
 their date of hire which list shall be prepared every twelve months. This list
@@ -322,9 +321,9 @@ designated beneficiary. An employee, or their spouse, shall be entitled to
 payment for accumulated but unused sick time in accordance with the following
 formula, but subject to a total payout cap of fifty-five hundred dollars
 ($5,500.00): The number of accumulated but unused sick leave hours credited to
-an employee at the date of his/her death or retirement shall be divided by three
-and the result shall be multiplied the then effective rate of compensation. The
-product of such calculation shall be payable to the employee with his/her final
+an employee at the date of their death or retirement shall be divided by three
+and the result shall be multiplied by the effective rate of compensation. The
+product of such calculation shall be payable to the employee with their final
 paycheck unless such amount exceeds $5,500.00. Such payout is capped at
 $5,500.00. The sick leave buy back cap provisions shall not apply to those
 employees hired before December 31, 1986.
@@ -338,7 +337,7 @@ to require medical proof of illness.
 
 Employees covered by health insurance shall continue to pay twenty percent (20%)
 of the cost of hospital and medical coverage for City-provided HMO coverage. In
-addition, should an employee elect to use a non-HMO City plan he or she may
+addition, should an employee elect to use a non-HMO City plan they may
 apply a dollar amount equal to 20% of the HMO premium towards such plan. Both
 parties agree to adopt the City of Northampton's health insurance premium
 structure. The Board of Trustees of Forbes Library agrees to continue to
@@ -374,7 +373,7 @@ twenty-five (25) vacation days.
 An employee's terms of service will be based upon the calendar year in which
 that employee began at the Forbes. The increase in vacation time due will begin
 on the anniversary of the employee's date of hire and be prorated until the
-following January 1 when the full amout will be given.
+following January 1 when the full amount will be given.
 
 Part-time employees (those employed on a regular scheduled basis at least twenty
 (20) hours per week) shall be entitled to vacation leave on a pro rata basis.
@@ -433,6 +432,7 @@ The following are paid holidays:
 . Memorial Day
 . Independence Day
 . Labor Day
+. Indigenous peoples Day
 . Veterans Day
 . 1/2 Day Before Thanksgiving
 . Thanksgiving Day
@@ -487,14 +487,14 @@ employee called to active duty with the United States Armed Forces.
 
 An employee who serves an annual tour of duty with a United States Reserve
 component or as a member of the National Guard of the Commonwealth shall receive
-the differences between his/her regular base pay and military pay received for a
+the differences between their regular base pay and military pay received for a
 period of up to seventeen (17) working days in a calendar year. The Library
 need only reimburse the reservist for days corresponding with the employee's
 work schedule.
 
 When permitted by law, an employee who is called to active military duty for a
 period of more than thirty (30) days may, at the option of the employee,
-continue his or her medical coverage under the same terms and conditions
+continue their medical coverage under the same terms and conditions
 provided by the contract. This option shall last for one (1) year only and must
 be exercised in writing by the employee by the sixtieth (60) day of the
 employee's active duty.
@@ -504,23 +504,23 @@ employee's active duty.
 === A. Maternity:
 
 In case of maternity leave an employee shall be allowed to continue working
-until her attending physician determines that she should take maternity leave.
-Except as provided below, maternity leave shall be without pay. When possible
-the employee shall give the employer two (2) weeks notice prior to her last day
-of work. Upon being placed on maternity leave under this article, the employee
-may use any sick leave and/or vacationleave credits accruedto her at her
-discretion. Maternity leave shall be allowed up to six (6) months and, with the
-approval of the supervisor, may be extended for medical reasons.
+until their attending physician determines that they should take maternity
+leave. Except as provided below, maternity leave shall be without pay. When
+possible the employee shall give the employer two (2) weeks notice prior to
+their last day of work. Upon being placed on maternity leave under this article,
+the employee may use any sick leave and/or vacation leave credits accrued to
+them at their discretion. Maternity leave shall be allowed up to six (6) months
+and, with the approval of the supervisor, may be extended for medical reasons.
 
 Such maternity leave shall not affect the employee's right to receive vacation
-time, sick leave bonuses, advancement, seniority, length of service credit,
-benefits, plans or programs for which she was eligible at the date of her leave,
-and any other advantages or rights of her employment incidental to her
-employment position; provided, however, that such maternity leave shall not be
-included, when applicable, in the computation of such benefits, rights and
-advantages; and provided, further, that the employer need not provide for the
-cost of any benefits, plans or programs during her period of maternity leave
-unless such employer so provides for all employees on leave of absence.
+time, sick leave, bonuses, advancement, seniority, length of service credit,
+benefits, plans or programs for which they were eligible at the date of their
+leave, and any other advantages or rights of their employment incidental to
+their employment position; provided, however, that such maternity leave shall
+not be included, when applicable, in the computation of such benefits, rights
+and advantages; and provided, further, that the employer need not provide for
+the cost of any benefits, plans or programs during their period of maternity
+leave unless such employer so provides for all employees on leave of absence.
 
 === B. FMLA
 
@@ -693,8 +693,8 @@ to work within thirty (30) calendar days of the date they stopped working upon
 presentation of a note from a treating physician, subject to a request from the
 Director of the Library, releasing said employee to return to full duty. The
 Board of Trustees of Forbes Library may, at its discretion, provide the employee
-with a written job description of his/her position and require the employee to
-present it to his/her physician.
+with a written job description of their position and require the employee to
+present it to their physician.
 
 If an employee is out on sick leave for more than thirty (30) consecutive days
 and then seeks to return to duty, the Board of Trustees of Forbes Library may,
@@ -715,16 +715,20 @@ employee's sick leave account will not be changed for any delay in returning to
 work caused by the invocation of this procedure.
 
 == Article XXIX: MISCELLANEOUS PROVISIONS ==
-=== A. Compensatory Time
+=== A. Overtime and Flex Time
 
-Employees covered by this Agreement will not be paid Overtime unless such
-Overtime has been authorized by the Director of the Library. Compensatory time
-shall be granted to any employee who exceeds 37 1/2 hours of work in a work week.
-If an employee earns compensatory time for hours worked in excess of 40 per work
-week, he or she shall accrue such compensatory time at the rate of one and
-one-half (1 1/2) hours per hour of work in excess of 40.
+Employees covered by this Agreement will be paid time and a half for any time
+worked above 40 hours in Forbes Library's 7-day work week (Sunday through
+Saturday). Any overtime hours must have prior approval by the employee's
+supervisor.
 
-Compensatory time shall be treated for wage and hour purposes as wages earned.
+Flex Time shall be considered any time worked above an employee's usual salaried
+hours but under the 40 hour per week Overtime standard. All staff are encouraged
+to balance hours worked in a 2 week pay period to equal the amount of their
+salaried hours. With permission of their supervisor, staff would be allowed to
+accumulate up to 25 hours of flex time. In unusual circumstances, and with prior
+approval of the employee's supervisor and the Library Director, time over 25
+hours would be paid out at the employee's usual hourly rate.
 
 === B. Mileage
 
@@ -746,7 +750,7 @@ provisions of this Agreement except for the Grievance and Arbitration provisions
 contained in Article VI. It is understood that if an employee is not judged
 suitable for regular status, either upon completion of their probationary
 period, or at some point during the probationary period, the Library may
-terminate the probationary employee's employment and he or she shall be without
+terminate the probationary employee's employment and they shall be without
 recourse under the terms of this Agreement.
 
 === D. Parking
@@ -768,21 +772,26 @@ Management requests that FLEA members give as much notice as possible of retirem
 
 == Article XXX: COMPENSATION ==
 
-Salary Chart: An accurate salary chart for the time period covered by the contract will be provided to FLEA as soon as possible, but within at least 60 days of the contract's approval. Each member of FLEA will be given written notice of their step, grade, and hourly rate when they receive their step raise. When an employee reaches the final step in a grade, the hourly salary will be adjusted upward, if needed, to match the highest FLEA member at that grade. 
+Salary Chart: An accurate salary chart for the time period covered by the
+contract will be provided to FLEA as soon as possible, but within at least 60
+days of the contract's approval. Each member of FLEA will be given written
+notice of their step, grade, and hourly rate when they receive their step raise.
+When an employee reaches the final step in a grade, the hourly salary will be
+adjusted upward, if needed, to match the highest FLEA member at that grade.
 
 All eligible employees will receive a step raise of 3 1/2 percent per year until
 they reach the top of their grade.
 
-Employees who were hired before July 1, 2007 will receive their step raise on
+Employees who were hired before July 1, 2005 will receive their step raise on
 July 1st of every year they are eligible. New employees hired on or after July
-1, 2007 will receive their step raises on the anniversary date of their first
+1, 2005 will receive their step raises on the anniversary date of their first
 day of employment.
 
 All employees are eligible to receive a contractual increase regardless of term of employment.
 
-The Employer agrees to increase an employee's base salaries by one and a half
-percent (1.5%) during the period of time beginning July 1, 2017 and ending June
-30, 2018.
+The Employer agrees to increase an employee's base salaries by two percent
+(2.0%) during the period of time beginning July 1, 2019 and ending June 30,
+2020.
 
 In the event the Library decides to open on Sundays, then the parties agree to
 re-open this Agreement for the purpose of negotiating over the effect of that
@@ -802,7 +811,7 @@ by mutual consent of committee members, on an unpaid basis.
 
 == Article XXXII: DURATION ==
 
-This Agreement between the Board and the Association entered into this 24th
-day of July 2017 covers the period beginning July 1, 2017 and the ending on June
-30, 2018 provided that the Agreement shall remain in full force and effect until
-a successor agreement is negotiated and in effect.
+This Agreement between the Board and the Association entered into this 20th day
+of June 2019 covers the period beginning July 1, 2019 and ending on June 30,
+2020 provided that the Agreement shall remain in full force and effect until a
+successor agreement is negotiated and in effect.
