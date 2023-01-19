@@ -1,4 +1,4 @@
-= Agreement Between Trustees of the Forbes Library and Forbes Library Employee Association (FLEA): JULY 1, 2019 to JUNE 30, 2020 =
+= Agreement Between Trustees of the Forbes Library and Forbes Library Employee Association (FLEA): JULY 1, 2022 to JUNE 30, 2023 =
 :toc:
 :toc-placement: preamble
 :sectnums!:
@@ -333,6 +333,12 @@ permitting an employee to return to duty after a medical absence. In situations
 involving possible abuse of the sick leave policy the Library reserves the right
 to require medical proof of illness.
 
+Unplanned time off, including sick leave, should be reported as soon as possible. 
+
+Notification of unplanned time off should be given to an employee's direct supervisor 
+no later than an hour before the start of their shift. Supervisors will notify the 
+Business Office as soon as possible. 
+
 == Article XIII: HEALTH AND WELFARE ==
 
 Employees covered by health insurance shall continue to pay twenty percent (20%)
@@ -378,12 +384,31 @@ following January 1 when the full amount will be given.
 Part-time employees (those employed on a regular scheduled basis at least twenty
 (20) hours per week) shall be entitled to vacation leave on a pro rata basis.
 
-Except in cases of bona fide emergency, vacation leave should be requested no
-less than two (2) weeks in advance. An employee may not begin the leave year
-with a balance in excess of twenty-five (25) vacation days. A member of the
-bargaining unit who leaves the employ of Forbes Library shall be paid for
-whatever leave balance exists as of the date of termination; no employee may be
-paid for more than twenty-five (25) vacation days of leave.
+An employee may not begin the leave year with a balance in excess of twenty-five (25) 
+vacation days. A member of the bargaining unit who leaves the employ of Forbes Library 
+shall be paid for whatever leave balance exists as of the date of termination; no 
+employee may be paid for more than twenty-five (25) vacation days of leave. 
+
+Requests for vacation and flex should be submitted using the library's time off request
+form that will be reviewed by the individual's supervisor and approved unless doing so 
+would jeopardize the safe and effective operation of the library, as determined by the 
+Library Director or designee.
+
+Vacation leave should be requested no less than two (2) weeks in advance. 
+
+Vacation requests will be approved on a first come basis, if requested 6 weeks ahead of 
+time, regardless of seniority. 
+
+If multiple vacation requets have been submitted for the same period, have yet to be 
+approved, and not all requests can be honored, vacation will be approved based on
+seniority, unless there is a compelling reason for the request by the less senior
+staff member. 
+
+Unplanned time off, including sick leave, should be reported as soon as possible. 
+
+Notification of unplanned time off should be given to an employee's direct 
+supervisor non later than an hour before the start of their shift. Supervisors
+will notify the Business Office as soon as possible. 
 
 == Article XV: BEREAVEMENT DAYS ==
 
@@ -430,6 +455,7 @@ The following are paid holidays:
 . Presidents Day
 . Patriots Day
 . Memorial Day
+. Juneteenth
 . Independence Day
 . Labor Day
 . Indigenous peoples Day
@@ -473,9 +499,7 @@ Employees subpoenaed by the Commonwealth or its subdivisions shall be reimbursed
 as if on jury duty.
 
 An employee on jury duty shall be considered as being employed Monday through
-Friday.
-
-An employee who is on jury duty for four (4) hours or less in a given day shall
+Friday. An employee who is on jury duty for four (4) hours or less in a given day shall
 return to work for the remainder of their regular shift, but in no event shall
 the time the employee is on jury duty and the time the employee is on their
 regular job exceed eight (8) hours in any given day.
@@ -526,7 +550,83 @@ leave unless such employer so provides for all employees on leave of absence.
 
 See Attachment B.
 
-=== C. JOB PROTECTION
+=== C. PFML
+
+Paid Family Medical Leave is a mandatory statewide insurance program that
+will provide almost every Massachusetts employee with paid time off to give 
+or receive care. 
+
+Covered reasons and time off under the program::
+If you qualitfy, this program will allow you to take up to 12 weeks to:
+. Bond with a new child;
+. To care for a family member with a serious health condition;
+. Or for time needed to prepare for a family members's pre- and post-deployment
+activities, as well as time for childcare issues related to a family member's 
+military deployment ("qualifying exigency"). 
+
+Up to 20 weeks is available under the program to attend to an employee's own 
+serious health condition and up to 26 weeks is available to attend to an injured
+family member. 
+
+Despite the reasons stated above, the program is capped up to a total of 26 weeks
+available in a 12-month period (which is measured on a rolling forward basis; 
+commencing on the Sunday immediately preceding the onset of a PFML leave). 
+
+Payment of premiums::
+The program is funded by premiums paid by employers and in some cases employees. 
+While the total premium (comprised statewide of both participating employer 
+and employee contributions) was initially set at 0.75% of wages, this percentage
+is subject to future change by the state as the program is administed by the 
+Massachusetts Department of Family and Medical Leave (DFML). Currently, the 
+library has volunteered to cover the employer and employee share. If this changes, 
+employees' contribtions would be deducted from their paychecks. 
+
+Based on the contribution rate in effect, Forbes Library will send our share and  
+if applicable those of our employees to the state (through the MassTaxConnect
+system) on a quarterly basis. Contribution rates and contribution amounts will 
+be reviewed annually. 
+
+Taking leave::
+Starting in 2021, employees may begin to apply to the DFML for benefits under
+this program. Therefore, employees seekingto take time off for covered reasons 
+who intend to file for benefits with the DFML, need to provide Forbes Library 
+with thirty (30) days advance notice when the leave is forseeable. For leaves
+that are necessitated for reasons beyond the employees control, notice needs
+to be provided as soon as practicable. The PFML leave will run concurrently 
+with other leave programs as applicable. 
+
+Benefits::
+While an employee is required to provide notice to Forbes Library, Forbes Library
+is not involved in the benefit claims process with the DFML. Employees 
+seeking to apply for benefits need to reach out to the DFML at (833) 344-7365
+and alert the Business Office of the intention to apply. Only the DFML can evaluate
+your eligibilty for benefits and determine how much you will receive. WHile the
+current maximum benefit is set at $850/week, this amount is subject to change 
+and is reviewed annually. Similarly, not all employees may be eligible for benefits
+as eligibilty is based on earnings. Any questions concerning benefit eligibilty or 
+disputes surrounding a determination on this benefit; including options to 
+appeal determinations should likewise be directed to the DFML at (833) 344-7365. 
+
+Employee responsibilities during a PFML leave::
+Employees who go out on leave covered under the DFML program are required 
+to follow the periodic reporting and call-in procedures as set forth under
+Forbes Library policies and procedures. Also, if an employee is on the Forbes
+Library group health plan, you will be responsible to continue paying your 
+portion of the premium cost while on leave. For further questions, please
+contact the Business Office. 
+
+Employee responsibilities upon returning from a PFML leave::
+Employees who go out on a PFML leave for their own serious health condition 
+are required to provide proof of fitness for duty from the health care 
+provider prior to resuming their job responsibilities. 
+
+Employee job protections::
+Employeees who return from leave under this law will be restored to their 
+previous or an equivalent position with the same status, pay, benefits and 
+seniority. Forbes Library is prohibited from discrimination or retaliating
+against you for requesting or taking leave. 
+
+=== D. JOB PROTECTION
 
 When an employee is on leave their job will not be unfairly targeted for
 elimination simply because it is temporarily vacant.
@@ -552,7 +652,71 @@ made to speak directly to a staff person.
 Unused personal days will be rolled into vacation days before vacation days are
 carried over to the next year.
 
-== Article XXII: LONGEVITY COMPENSATION ==
+== Article XXII: RESIGNATION POLICY ==
+
+The library recongnizes that there are certain aspects of employment that the
+library can control and certain aspects that the employee can control. One of 
+the areas that the employee can control is when they decide to leave the employ
+of the Forbes Library. Forbes Library has adopted a policy of requiring a 
+"notice period" when an employee makes the decision to end their employment 
+relationship. This notice period gives the library the opportunity to make 
+arrangements for a replacement and to organize the departure of the incumbent.
+The purpose of this policy is to address some issues that arise when the 
+employment relationship ends. 
+
+. DEFINITION
+  .. Notice period: a period of time (usually two to four weeks) after an
+  employee has given their supervisior notice of their intention to leave the 
+  employ of the library. The period usually begins the day notice is given and
+  continues through the last day the employee performs any work for the library. 
+
+  .. Job abandonment: when an employee fails to come to work for three (3) days 
+  and does not call their supervisor for three (3) days and/or does not
+  communicate with supervisor if working remotely according to the telecommuting
+  agreement, it will be concluded that the employee has voluntarily resigned 
+  their position with the library and their separation date will be documented
+  as the last day they performed any work. 
+  
+. PROCEDURE:
+When an employee makes the decision to leave their position with the library, 
+the employee should give written notice to their supervisor. The employee 
+should include in that notice when their last day of actual work will be. 
+Employees should limit their use of paid time off (PTO) benefits (sick, personal 
+or vacation time) during their notice period. Once their notice period has passed 
+and the employee has worked their last day of work, the employee will receive a 
+payout of all applicable PTO benefits in their next payroll check. 
+
+The amount of notice given should match the employee's grade level. Grades 4-6 
+should give their supervisor at least two weeks notice before their last day of
+work. Grades 7-9 should give their supervisor at least three weeks notice. 
+Grades 10-11 should give their supervisor at least four weeks notice. 
+
+If an employee fails to give proper notice (i.e. walks off the job or give less
+than two weeks' notice), the employee will not be eligible to be rehired by 
+the library in the future. 
+
+Employees are encouraged to schedule an Exit Interview with the Library Director
+and/or Assistant Director before their last day of work. A meetingn with the 
+Administrative Assistant is also required within a week of giving notice for 
+information about benefits and payouts and coordination with the City's Human 
+Resources Department. 
+
+Continuation of group health insurance for terminal payout period: An employee 
+who voluntarily separates from employment and gives appropriate notice and has 
+two or more full weeks worth of vacation time accrued on their last day of 
+work, may choose to have the vaction time paid out in bi-weekly amounts for up
+to four weeks (two pay periods). During that terminal payout period, the 
+employee could choose to continue their group health insurance for each week 
+of full pay. Any remaining vacation balance would then be paid out in a final 
+paycheck. Group health insurance benefits would end on the last day of the week
+in which the employee was paid their regular scheduled hours in vacation time 
+or after four (4) weeks, whichever is sooner. Employees cannot continue group
+health insurance for any partial pay week. Once an employee is no longer
+eligible for group health insrance, they will be given the option of continuing
+coverage under COBRA. Employees exerciting this option would not accrue any 
+vacation (or sick) time. All other benefits end on the employee's last day of work.
+
+== Article XXIII: LONGEVITY COMPENSATION ==
 
 Each full-time employee (i.e. those employees who work regularly at least
 thirty-seven and one half (37 1/2) hours per week) shall receive longevity
@@ -608,7 +772,7 @@ Employees who work at least twenty (20) hours of more per week on a regularly
 scheduled basis will have their longevity credited on a pro rata basis, not to
 exceed the amount received by full-time employees.
 
-== Article XXIII: ASSOCIATION REPRESENTATION ==
+== Article XXIV: ASSOCIATION REPRESENTATION ==
 
 A written list of Officers of the Collective Bargaining Unit shall be furnished
 to the Board of Trustees of Forbes Library immediately after their designation
@@ -628,7 +792,7 @@ The Library agrees to pay for time spent by this committee person during their
 regular work hours in consulting with the Board of Trustees of Forbes Library or
 its designee regarding grievances.
 
-== Article XXIV: ACCESS TO PREMISES/BULLETIN BOARDS ==
+== Article XXV: ACCESS TO PREMISES/BULLETIN BOARDS ==
 
 The Library shall permit the Collective Bargaining Unit to post notices on the
 bulletin boards in the Staff Room of the Library.
@@ -657,7 +821,7 @@ the Board in matters of staff reduction shall be final.
 reduction, laid off staff who are qualified and certified for such a vacancy
 will be given preference over other applicants.
 
-== Article XXVI: NO STRIKE, WORK SLOWDOWN OR LOCKOUT ==
+== Article XXVII: NO STRIKE, WORK SLOWDOWN OR LOCKOUT ==
 
 The parties agree that during the term of this Agreement differences shall be
 resolved by peaceful and appropriate means that do not interrupt or disturb the
@@ -667,7 +831,7 @@ downs or other concerted refusal to perform normal and customary library duties.
 The Board agrees that during the term of this agreement it shall not engage in a
 lockout.
 
-== Article XXVII: LEAVE OF ABSENCE ==
+== Article XXVIII: LEAVE OF ABSENCE ==
 
 Employees shall be eligible for Leaves of Absence after they have completed
 their training and orientation (probationary) period.
@@ -679,7 +843,7 @@ covered by the Provisions of the Family Medical Leave Act (“FMLA”).
 All requests for unpaid leaves of absence or extension of such leave shall be
 submitted in writing to the Director.
 
-== Article XXVIII: DISABILITY ==
+== Article XXIX: DISABILITY ==
 
 The Trustees of Forbes Library agree to develop a light duty policy in
 accordance with the Americans With Disabilities Act.
@@ -714,7 +878,7 @@ independent physician agrees that the employee may return to duty, the
 employee's sick leave account will not be changed for any delay in returning to
 work caused by the invocation of this procedure.
 
-== Article XXIX: MISCELLANEOUS PROVISIONS ==
+== Article XXX: MISCELLANEOUS PROVISIONS ==
 === A. Overtime and Flex Time
 
 Employees covered by this Agreement will be paid time and a half for any time
@@ -770,7 +934,7 @@ hours of work, or to the elimination of positions in the bargaining unit.
 
 Management requests that FLEA members give as much notice as possible of retirement.
 
-== Article XXX: COMPENSATION ==
+== Article XXXI: COMPENSATION ==
 
 Salary Chart: An accurate salary chart for the time period covered by the
 contract will be provided to FLEA as soon as possible, but within at least 60
@@ -787,17 +951,22 @@ July 1st of every year they are eligible. New employees hired on or after July
 1, 2005 will receive their step raises on the anniversary date of their first
 day of employment.
 
-All employees are eligible to receive a contractual increase regardless of term of employment.
+All employees are eligible to receive a contractual increase regardless of term 
+of employment.
 
 The Employer agrees to increase an employee's base salaries by two percent
-(2.0%) during the period of time beginning July 1, 2019 and ending June 30,
-2020.
+(2.0%) during the period of time beginning July 1, 2022 and ending June 30,
+2023.
+
+The Employer agrees to pay a one time bonus of $1050 (pro-rated based on salaried
+hours per week) in December 2022 to all current FLEA members who were working
+as of June 2022. 
 
 In the event the Library decides to open on Sundays, then the parties agree to
 re-open this Agreement for the purpose of negotiating over the effect of that
 decision on bargaining unit employees.
 
-== Article XXXI: LABOR MANAGEMENT COMMITTEE ==
+== Article XXXII: LABOR MANAGEMENT COMMITTEE ==
 
 The Library and the Association agree to the formation of a joint labor
 management committee to be composed of two Association and two management
@@ -812,6 +981,6 @@ by mutual consent of committee members, on an unpaid basis.
 == Article XXXII: DURATION ==
 
 This Agreement between the Board and the Association entered into this 20th day
-of June 2019 covers the period beginning July 1, 2019 and ending on June 30,
-2020 provided that the Agreement shall remain in full force and effect until a
+of October 2022 covers the period beginning July 1, 2022 and ending on June 30,
+2023 provided that the Agreement shall remain in full force and effect until a
 successor agreement is negotiated and in effect.
